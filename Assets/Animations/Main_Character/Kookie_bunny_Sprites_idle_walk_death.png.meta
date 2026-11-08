@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: f035c0900fd7c57438367af37729329a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2548012116723228180
+    second: Kookie-bunny-Sprites-idle-walk-death_0
+  - first:
+      213: -8346825386092993785
+    second: Kookie-bunny-Sprites-idle-walk-death_1
+  - first:
+      213: -6878118978477913758
+    second: Kookie-bunny-Sprites-idle-walk-death_2
+  - first:
+      213: 5842877783642654732
+    second: Kookie-bunny-Sprites-idle-walk-death_3
+  - first:
+      213: -5747468132374326214
+    second: Kookie-bunny-Sprites-idle-walk-death_4
+  - first:
+      213: -1943408557937651907
+    second: Kookie-bunny-Sprites-idle-walk-death_5
+  - first:
+      213: 6220770446767669956
+    second: Kookie-bunny-Sprites-idle-walk-death_6
+  - first:
+      213: -2200040315028583429
+    second: Kookie-bunny-Sprites-idle-walk-death_7
+  - first:
+      213: -375121040761679227
+    second: Kookie-bunny-Sprites-idle-walk-death_8
+  - first:
+      213: 2076968662355459189
+    second: Kookie-bunny-Sprites-idle-walk-death_9
+  - first:
+      213: -8130074816564129373
+    second: Kookie-bunny-Sprites-idle-walk-death_10
+  - first:
+      213: -5419394918381785522
+    second: Kookie-bunny-Sprites-idle-walk-death_11
+  - first:
+      213: -4869128050979505141
+    second: Kookie-bunny-Sprites-idle-walk-death_12
+  - first:
+      213: 1321031773063557463
+    second: Kookie-bunny-Sprites-idle-walk-death_13
+  - first:
+      213: -8408061449811745425
+    second: Kookie-bunny-Sprites-idle-walk-death_14
+  - first:
+      213: -4125115542339382286
+    second: Kookie-bunny-Sprites-idle-walk-death_15
+  - first:
+      213: 1387701250278788893
+    second: Kookie-bunny-Sprites-idle-walk-death_16
+  - first:
+      213: -5141525851461635414
+    second: Kookie-bunny-Sprites-idle-walk-death_17
+  - first:
+      213: 1482151241224199232
+    second: Kookie-bunny-Sprites-idle-walk-death_18
+  - first:
+      213: -5854054196582265089
+    second: Kookie-bunny-Sprites-idle-walk-death_19
+  - first:
+      213: -8084731332010011964
+    second: Kookie-bunny-Sprites-idle-walk-death_20
+  - first:
+      213: -9095776944954497315
+    second: Kookie-bunny-Sprites-idle-walk-death_21
+  - first:
+      213: -592899287163566950
+    second: Kookie-bunny-Sprites-idle-walk-death_22
+  - first:
+      213: 734642396501602022
+    second: Kookie-bunny-Sprites-idle-walk-death_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle-1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eddac258b5c5320800000000000000
+      internalID: 2548012116723228180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e6b3e88e1a2c80800000000000000
+      internalID: -8346825386092993785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26983fc1b330c80a0800000000000000
+      internalID: -6878118978477913758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ca082362161150800000000000000
+      internalID: 5842877783642654732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3453fb5f24ec30b0800000000000000
+      internalID: -5747468132374326214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f0ca29630a705e0800000000000000
+      internalID: -1943408557937651907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c5d423cd945650800000000000000
+      internalID: 6220770446767669956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbce236df2e771e0800000000000000
+      internalID: -2200040315028583429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58210a1a66d4bcaf0800000000000000
+      internalID: -375121040761679227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb0518effd2dc10800000000000000
+      internalID: 2076968662355459189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a19851870c2c2f80800000000000000
+      internalID: -8130074816564129373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eeb40f8017ac4b0800000000000000
+      internalID: -5419394918381785522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cf97bd5d16d6cb0800000000000000
+      internalID: -4869128050979505141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 51
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513572066f355210800000000000000
+      internalID: 1321031773063557463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a052c8a0905b80800000000000000
+      internalID: -8408061449811745425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 50
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f31b612545a0c6c0800000000000000
+      internalID: -4125115542339382286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8b3d4fea124310800000000000000
+      internalID: 1387701250278788893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23424aa71a5a8b0800000000000000
+      internalID: -5141525851461635414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c929c73b8a19410800000000000000
+      internalID: 1482151241224199232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe44dc69b832cea0800000000000000
+      internalID: -5854054196582265089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death-9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2921330b34dcf80800000000000000
+      internalID: -8084731332010011964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 23
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6accf5f0f45c180800000000000000
+      internalID: -9095776944954497315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9488095d3995c7f0800000000000000
+      internalID: -592899287163566950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6b680e59f13a00800000000000000
+      internalID: 734642396501602022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a629b632947bd9947995c96d8dfe0aac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kookie-bunny-Sprites-idle-walk-death_21: -9095776944954497315
+      Kookie-bunny-Sprites-idle-walk-death_22: -592899287163566950
+      Kookie-bunny-Sprites-idle-walk-death_23: 734642396501602022
+      death-1: -4869128050979505141
+      death-2: 1321031773063557463
+      death-3: -8408061449811745425
+      death-4: -4125115542339382286
+      death-5: 1387701250278788893
+      death-6: -5141525851461635414
+      death-7: 1482151241224199232
+      death-8: -5854054196582265089
+      death-9: -8084731332010011964
+      idle-1: 2548012116723228180
+      idle-2: -8346825386092993785
+      idle-3: -6878118978477913758
+      idle-4: 5842877783642654732
+      idle-5: -5747468132374326214
+      idle-6: -1943408557937651907
+      idle-7: 6220770446767669956
+      idle-8: -2200040315028583429
+      walk-1: -375121040761679227
+      walk-2: 2076968662355459189
+      walk-3: -8130074816564129373
+      walk-4: -5419394918381785522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
