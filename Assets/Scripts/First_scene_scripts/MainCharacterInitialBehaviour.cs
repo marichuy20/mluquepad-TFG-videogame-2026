@@ -30,6 +30,7 @@ public class MainCharacterInitialBehaviour: MonoBehaviour
             if (mainHero.transform.position.x >= 10)
             {
                 heroRuns = false;
+                SceneManager.LoadScene("BunnyBurrow");
             }
         }
     }
