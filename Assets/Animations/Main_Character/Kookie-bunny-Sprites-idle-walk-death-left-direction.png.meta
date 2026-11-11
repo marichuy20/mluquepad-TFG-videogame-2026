@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 5c4a5b3ded1a33d40aa16949f2f838eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8913694220049557569
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_0
+  - first:
+      213: 391422935607212150
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_1
+  - first:
+      213: -5504134935001202425
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_2
+  - first:
+      213: 6461072394419783093
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_3
+  - first:
+      213: 3178580548800558251
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_4
+  - first:
+      213: -5129750528891335872
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_5
+  - first:
+      213: -3354056665089176877
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_6
+  - first:
+      213: -6159804199788971595
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_7
+  - first:
+      213: -7164800957026965915
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_8
+  - first:
+      213: -1247998554248529305
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_9
+  - first:
+      213: -4452488449533801524
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_10
+  - first:
+      213: -5447856207878575024
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_11
+  - first:
+      213: -1146010471101316998
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_12
+  - first:
+      213: 136984771332335318
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_13
+  - first:
+      213: 6592257138343801672
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_14
+  - first:
+      213: 2435203590435296106
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_15
+  - first:
+      213: -6154701579346107720
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_16
+  - first:
+      213: -830025128373966041
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_17
+  - first:
+      213: -3808223735423493252
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_18
+  - first:
+      213: 4814636457127146983
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_19
+  - first:
+      213: 3610907863082718269
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_20
+  - first:
+      213: -1907707000015452834
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_21
+  - first:
+      213: 3928156699594178369
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_22
+  - first:
+      213: 5388545450412095191
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_23
+  - first:
+      213: -1703902071366391555
+    second: Kookie-bunny-Sprites-idle-walk-death-left-direction_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a1869aadc3bb70800000000000000
+      internalID: 8913694220049557569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678fec9061d9e6500800000000000000
+      internalID: 391422935607212150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7018f6350726d93b0800000000000000
+      internalID: -5504134935001202425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b549794c175aa950800000000000000
+      internalID: 6461072394419783093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba439351b269c1c20800000000000000
+      internalID: 3178580548800558251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b4f0392177fc8b0800000000000000
+      internalID: -5129750528891335872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da04d0db3ff371d0800000000000000
+      internalID: -3354056665089176877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b97e9167baf38aa0800000000000000
+      internalID: -6159804199788971595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56667068d73819c90800000000000000
+      internalID: -7164800957026965915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab0d55de73eaee0800000000000000
+      internalID: -1247998554248529305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb020f68559532c0800000000000000
+      internalID: -4452488449533801524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cadf594a35564b0800000000000000
+      internalID: -5447856207878575024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c0216c8d8810f0800000000000000
+      internalID: -1146010471101316998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6e6ea7ceaa6e100800000000000000
+      internalID: 136984771332335318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f307a0f66c7b50800000000000000
+      internalID: 6592257138343801672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63d6a363c49bc120800000000000000
+      internalID: 2435203590435296106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22a88c58b169aa0800000000000000
+      internalID: -6154701579346107720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 50
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b2f9c1b882b74f0800000000000000
+      internalID: -830025128373966041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b1fd080b8762bc0800000000000000
+      internalID: -3808223735423493252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e575b5495601d240800000000000000
+      internalID: 4814636457127146983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d5bfe1958c1230800000000000000
+      internalID: 3610907863082718269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558d8847967685e0800000000000000
+      internalID: -1907707000015452834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb16db4bd938630800000000000000
+      internalID: 3928156699594178369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63cd39985f7ca40800000000000000
+      internalID: 5388545450412095191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kookie-bunny-Sprites-idle-walk-death-left-direction_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8672008168a58e0800000000000000
+      internalID: -1703902071366391555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_0: 8913694220049557569
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_1: 391422935607212150
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_10: -4452488449533801524
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_11: -5447856207878575024
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_12: -1146010471101316998
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_13: 136984771332335318
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_14: 6592257138343801672
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_15: 2435203590435296106
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_16: -6154701579346107720
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_17: -830025128373966041
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_18: -3808223735423493252
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_19: 4814636457127146983
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_2: -5504134935001202425
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_20: 3610907863082718269
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_21: -1907707000015452834
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_22: 3928156699594178369
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_23: 5388545450412095191
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_24: -1703902071366391555
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_3: 6461072394419783093
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_4: 3178580548800558251
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_5: -5129750528891335872
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_6: -3354056665089176877
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_7: -6159804199788971595
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_8: -7164800957026965915
+      Kookie-bunny-Sprites-idle-walk-death-left-direction_9: -1247998554248529305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
