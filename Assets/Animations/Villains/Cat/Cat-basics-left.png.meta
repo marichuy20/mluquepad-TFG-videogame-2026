@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: e57c130889e77984fbc5ff9766ec1bb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -136965078841517102
+    second: Cat-basics-left_0
+  - first:
+      213: 8301136405403644188
+    second: Cat-basics-left_1
+  - first:
+      213: 6321273976904817565
+    second: Cat-basics-left_2
+  - first:
+      213: -5455704343033697376
+    second: Cat-basics-left_3
+  - first:
+      213: -4798571017148315047
+    second: Cat-basics-left_4
+  - first:
+      213: -3639081169293940157
+    second: Cat-basics-left_5
+  - first:
+      213: -5330875292178585383
+    second: Cat-basics-left_6
+  - first:
+      213: 8231097981152303933
+    second: Cat-basics-left_7
+  - first:
+      213: -2930394460449303681
+    second: Cat-basics-left_8
+  - first:
+      213: 415467537278243570
+    second: Cat-basics-left_9
+  - first:
+      213: 7327798028779454478
+    second: Cat-basics-left_10
+  - first:
+      213: 198488004204670562
+    second: Cat-basics-left_11
+  - first:
+      213: -1960704681396076760
+    second: Cat-basics-left_12
+  - first:
+      213: -2421146061531160174
+    second: Cat-basics-left_13
+  - first:
+      213: 4097536474986946910
+    second: Cat-basics-left_14
+  - first:
+      213: -9170118463141503257
+    second: Cat-basics-left_15
+  - first:
+      213: -2751487395653330755
+    second: Cat-basics-left_16
+  - first:
+      213: 5616981638517232596
+    second: Cat-basics-left_17
+  - first:
+      213: -3731676489949501654
+    second: Cat-basics-left_18
+  - first:
+      213: 8763047189165930497
+    second: Cat-basics-left_19
+  - first:
+      213: 5428418904461376800
+    second: Cat-basics-left_20
+  - first:
+      213: -6251517890450498156
+    second: Cat-basics-left_21
+  - first:
+      213: -6915698016281737474
+    second: Cat-basics-left_22
+  - first:
+      213: 916611301031479062
+    second: Cat-basics-left_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat-basics-left_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db94098cf6691ef0800000000000000
+      internalID: -136965078841517102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11b524549f833370800000000000000
+      internalID: 8301136405403644188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b1551c03da9b750800000000000000
+      internalID: 6321273976904817565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ababe93ec17944b0800000000000000
+      internalID: -5455704343033697376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac365751d086db0800000000000000
+      internalID: -4798571017148315047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aeb6b05f26f7dc0800000000000000
+      internalID: -3639081169293940157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e9cb7a2de406b0800000000000000
+      internalID: -5330875292178585383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b940ee00cba3270800000000000000
+      internalID: 8231097981152303933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73952d93c52557d0800000000000000
+      internalID: -2930394460449303681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21d2f168904c500800000000000000
+      internalID: 415467537278243570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00053b9b7191b560800000000000000
+      internalID: 7327798028779454478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eabc6c9cb21c200800000000000000
+      internalID: 198488004204670562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff0f30b7d2ac4e0800000000000000
+      internalID: -1960704681396076760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291691d1c7c566ed0800000000000000
+      internalID: -2421146061531160174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51adcdd6bf5dd830800000000000000
+      internalID: 4097536474986946910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1338d7d13db080800000000000000
+      internalID: -9170118463141503257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db85e1aaac0c0d9d0800000000000000
+      internalID: -2751487395653330755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d316b94a0783fd40800000000000000
+      internalID: 5616981638517232596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2722efe00c663cc0800000000000000
+      internalID: -3731676489949501654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108783c6df89c9970800000000000000
+      internalID: 8763047189165930497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d7f6c8b3e955b40800000000000000
+      internalID: 5428418904461376800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd2b0c9952e39a0800000000000000
+      internalID: -6251517890450498156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef647ad8b418600a0800000000000000
+      internalID: -6915698016281737474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-basics-left_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61707133f1578bc00800000000000000
+      internalID: 916611301031479062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cat-basics-left_0: -136965078841517102
+      Cat-basics-left_1: 8301136405403644188
+      Cat-basics-left_10: 7327798028779454478
+      Cat-basics-left_11: 198488004204670562
+      Cat-basics-left_12: -1960704681396076760
+      Cat-basics-left_13: -2421146061531160174
+      Cat-basics-left_14: 4097536474986946910
+      Cat-basics-left_15: -9170118463141503257
+      Cat-basics-left_16: -2751487395653330755
+      Cat-basics-left_17: 5616981638517232596
+      Cat-basics-left_18: -3731676489949501654
+      Cat-basics-left_19: 8763047189165930497
+      Cat-basics-left_2: 6321273976904817565
+      Cat-basics-left_20: 5428418904461376800
+      Cat-basics-left_21: -6251517890450498156
+      Cat-basics-left_22: -6915698016281737474
+      Cat-basics-left_23: 916611301031479062
+      Cat-basics-left_3: -5455704343033697376
+      Cat-basics-left_4: -4798571017148315047
+      Cat-basics-left_5: -3639081169293940157
+      Cat-basics-left_6: -5330875292178585383
+      Cat-basics-left_7: 8231097981152303933
+      Cat-basics-left_8: -2930394460449303681
+      Cat-basics-left_9: 415467537278243570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

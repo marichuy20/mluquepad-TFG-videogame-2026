@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 1b746559bd012f24d9b9df160e972b57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -626577567885515592
+    second: wolf-basic-left_0
+  - first:
+      213: -3560164330268466824
+    second: wolf-basic-left_1
+  - first:
+      213: -3135954960040517124
+    second: wolf-basic-left_2
+  - first:
+      213: 6882636509417099673
+    second: wolf-basic-left_3
+  - first:
+      213: 1422757476542330075
+    second: wolf-basic-left_4
+  - first:
+      213: -3853524800420760935
+    second: wolf-basic-left_5
+  - first:
+      213: 785163147304596884
+    second: wolf-basic-left_6
+  - first:
+      213: 707239774008519425
+    second: wolf-basic-left_7
+  - first:
+      213: 5251778593172855194
+    second: wolf-basic-left_8
+  - first:
+      213: 354577621451510390
+    second: wolf-basic-left_9
+  - first:
+      213: -1390365278390467948
+    second: wolf-basic-left_10
+  - first:
+      213: -4316908708338970666
+    second: wolf-basic-left_11
+  - first:
+      213: -1769405994046696637
+    second: wolf-basic-left_12
+  - first:
+      213: -7249888163043945463
+    second: wolf-basic-left_13
+  - first:
+      213: 8052108575112568579
+    second: wolf-basic-left_14
+  - first:
+      213: -1485062221817668506
+    second: wolf-basic-left_15
+  - first:
+      213: 8867505879889826419
+    second: wolf-basic-left_16
+  - first:
+      213: -5770358658058616470
+    second: wolf-basic-left_17
+  - first:
+      213: 6867098121947793572
+    second: wolf-basic-left_18
+  - first:
+      213: -4544403340861812512
+    second: wolf-basic-left_19
+  - first:
+      213: -10507687588707448
+    second: wolf-basic-left_20
+  - first:
+      213: -7992022547828417959
+    second: wolf-basic-left_21
+  - first:
+      213: 6288424868910334068
+    second: wolf-basic-left_22
+  - first:
+      213: 2489473303501682301
+    second: wolf-basic-left_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf-basic-left_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4a4f19503fd47f0800000000000000
+      internalID: -626577567885515592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e4587761c79ec0800000000000000
+      internalID: -3560164330268466824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1292f2499da74d0800000000000000
+      internalID: -3135954960040517124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d0f58079048f50800000000000000
+      internalID: 6882636509417099673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd436d60366aeb310800000000000000
+      internalID: 1422757476542330075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99233c16c97858ac0800000000000000
+      internalID: -3853524800420760935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49571d5f8b575ea00800000000000000
+      internalID: 785163147304596884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b2eccc3de90d900800000000000000
+      internalID: 707239774008519425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99911d2ec012e840800000000000000
+      internalID: 5251778593172855194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6729be3d776bbe400800000000000000
+      internalID: 354577621451510390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492cf71552e64bce0800000000000000
+      internalID: -1390365278390467948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4aa7d6624714c0800000000000000
+      internalID: -4316908708338970666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34356658f9ec177e0800000000000000
+      internalID: -1769405994046696637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d4749029336b90800000000000000
+      internalID: -7249888163043945463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f16705616debf60800000000000000
+      internalID: 8052108575112568579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c943707cff36be0800000000000000
+      internalID: -1485062221817668506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372558e9d95bf0b70800000000000000
+      internalID: 8867505879889826419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6101d78f519befa0800000000000000
+      internalID: -5770358658058616470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a84374cb55dc4f50800000000000000
+      internalID: 6867098121947793572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e055df1d390fe0c0800000000000000
+      internalID: -4544403340861812512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8834dd5505baadff0800000000000000
+      internalID: -10507687588707448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a56c716d1a61190800000000000000
+      internalID: -7992022547828417959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470022cc919f44750800000000000000
+      internalID: 6288424868910334068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-basic-left_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76390d97c26c8220800000000000000
+      internalID: 2489473303501682301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wolf-basic-left_0: -626577567885515592
+      wolf-basic-left_1: -3560164330268466824
+      wolf-basic-left_10: -1390365278390467948
+      wolf-basic-left_11: -4316908708338970666
+      wolf-basic-left_12: -1769405994046696637
+      wolf-basic-left_13: -7249888163043945463
+      wolf-basic-left_14: 8052108575112568579
+      wolf-basic-left_15: -1485062221817668506
+      wolf-basic-left_16: 8867505879889826419
+      wolf-basic-left_17: -5770358658058616470
+      wolf-basic-left_18: 6867098121947793572
+      wolf-basic-left_19: -4544403340861812512
+      wolf-basic-left_2: -3135954960040517124
+      wolf-basic-left_20: -10507687588707448
+      wolf-basic-left_21: -7992022547828417959
+      wolf-basic-left_22: 6288424868910334068
+      wolf-basic-left_23: 2489473303501682301
+      wolf-basic-left_3: 6882636509417099673
+      wolf-basic-left_4: 1422757476542330075
+      wolf-basic-left_5: -3853524800420760935
+      wolf-basic-left_6: 785163147304596884
+      wolf-basic-left_7: 707239774008519425
+      wolf-basic-left_8: 5251778593172855194
+      wolf-basic-left_9: 354577621451510390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

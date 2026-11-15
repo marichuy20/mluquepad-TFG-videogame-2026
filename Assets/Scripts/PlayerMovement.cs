@@ -19,12 +19,16 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         rb.linearVelocity = movement * speed;
+        
         mainHeroAnimator.SetBool("isMovingRight", movement.x > 0 && movement.y == 0);
         mainHeroAnimator.SetBool("isMovingUp", movement.x == 0 && movement.y > 0);
         mainHeroAnimator.SetBool("isMovingDown", movement.x == 0 && movement.y < 0);
         mainHeroAnimator.SetBool("isMovingLeft", movement.x < 0 && movement.y == 0);
         mainHeroAnimator.SetBool("isNotMoving", movement == Vector2.zero);
-
+        if (Input.GetKeyDown(KeyCode.Z) && movement == Vector2.zero)
+        {
+            mainHeroAnimator.SetTrigger("isAttacking");
+        }
     }
 
     public void Move(InputAction.CallbackContext context)
