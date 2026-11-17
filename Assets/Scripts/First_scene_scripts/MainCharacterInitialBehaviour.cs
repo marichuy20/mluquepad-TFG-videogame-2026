@@ -17,8 +17,8 @@ public class MainCharacterInitialBehaviour: MonoBehaviour
 
     public void MoveHero(GameObject textBox) {
         textBox.SetActive(false);
+        mainHeroAnimator.SetBool("isMovingRight", true);
         heroRuns = true;
-        mainHeroAnimator.Play("bunny_walk_animation");
     }
 
     // Update is called once per frame
@@ -30,7 +30,8 @@ public class MainCharacterInitialBehaviour: MonoBehaviour
             if (mainHero.transform.position.x >= 10)
             {
                 heroRuns = false;
-                SceneManager.LoadScene("BunnyBurrow");
+                //SceneManager.LoadScene("BunnyBurrow");
+                LoadingScreenManager.Instance.SwitchScene(1);
             }
         }
     }

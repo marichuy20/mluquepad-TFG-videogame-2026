@@ -1632,9 +1632,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4546675281667683157, guid: 3bbeb28c0a5b32f4baae80250f01ad89, type: 3}
       propertyPath: m_Name
-      value: LoadingScreen
+      value: LoadingScreenManager
       objectReference: {fileID: 0}
     - target: {fileID: 4546675281667683157, guid: 3bbeb28c0a5b32f4baae80250f01ad89, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024977332803742591, guid: 3bbeb28c0a5b32f4baae80250f01ad89, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
