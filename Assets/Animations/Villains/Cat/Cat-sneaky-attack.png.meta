@@ -133,9 +133,9 @@ TextureImporter:
       name: Cat-sneaky-attack_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 168
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -155,9 +155,9 @@ TextureImporter:
       name: Cat-sneaky-attack_1
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 136
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -177,9 +177,9 @@ TextureImporter:
       name: Cat-sneaky-attack_2
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 101
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -199,9 +199,9 @@ TextureImporter:
       name: Cat-sneaky-attack_3
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 65
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -221,9 +221,9 @@ TextureImporter:
       name: Cat-sneaky-attack_4
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 32
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -243,9 +243,9 @@ TextureImporter:
       name: Cat-sneaky-attack_5
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 0
-        width: 21
+        width: 23
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -265,7 +265,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 95f055f4bf658e24a88f9da1bdf21fcc
+    spriteID: 4ff7fa3ffd4c61f429a400c2200b6d10
     internalID: 0
     vertices: []
     indices: 

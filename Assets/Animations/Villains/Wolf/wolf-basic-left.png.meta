@@ -192,7 +192,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,7 +214,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,7 +236,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,7 +258,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,7 +280,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,7 +302,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,7 +324,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,7 +346,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,7 +368,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,7 +390,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,7 +412,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,7 +434,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -448,15 +448,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_12
+      name: death-9
       rect:
         serializedVersion: 2
-        x: 2
+        x: 1
         y: 47
         width: 21
-        height: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -470,15 +470,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_13
+      name: death-8
       rect:
         serializedVersion: 2
-        x: 26
+        x: 25
         y: 47
         width: 21
-        height: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -492,15 +492,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_14
+      name: death-7
       rect:
         serializedVersion: 2
         x: 50
         y: 47
         width: 21
-        height: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -514,15 +514,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_15
+      name: death-6
       rect:
         serializedVersion: 2
-        x: 74
+        x: 73
         y: 47
         width: 21
-        height: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -536,15 +536,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_16
+      name: death-5
       rect:
         serializedVersion: 2
-        x: 98
+        x: 97
         y: 47
         width: 21
-        height: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -558,15 +558,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_17
+      name: death-4
       rect:
         serializedVersion: 2
-        x: 122
-        y: 49
+        x: 121
+        y: 47
         width: 21
-        height: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -580,15 +580,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_18
+      name: death-3
       rect:
         serializedVersion: 2
-        x: 146
-        y: 50
+        x: 145
+        y: 47
         width: 21
-        height: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -602,15 +602,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_19
+      name: death-2
       rect:
         serializedVersion: 2
-        x: 170
-        y: 50
+        x: 169
+        y: 47
         width: 21
-        height: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -624,15 +624,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf-basic-left_20
+      name: death-1
       rect:
         serializedVersion: 2
-        x: 194
-        y: 49
+        x: 193
+        y: 47
         width: 21
-        height: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -654,7 +654,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -676,7 +676,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -698,7 +698,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -715,7 +715,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0033e08abc999d341ae5a14f0554f1ea
     internalID: 0
     vertices: []
     indices: 
@@ -725,20 +725,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      death-1: -10507687588707448
+      death-2: -4544403340861812512
+      death-3: 6867098121947793572
+      death-4: -5770358658058616470
+      death-5: 8867505879889826419
+      death-6: -1485062221817668506
+      death-7: 8052108575112568579
+      death-8: -7249888163043945463
+      death-9: -1769405994046696637
       wolf-basic-left_0: -626577567885515592
       wolf-basic-left_1: -3560164330268466824
       wolf-basic-left_10: -1390365278390467948
       wolf-basic-left_11: -4316908708338970666
-      wolf-basic-left_12: -1769405994046696637
-      wolf-basic-left_13: -7249888163043945463
-      wolf-basic-left_14: 8052108575112568579
-      wolf-basic-left_15: -1485062221817668506
-      wolf-basic-left_16: 8867505879889826419
-      wolf-basic-left_17: -5770358658058616470
-      wolf-basic-left_18: 6867098121947793572
-      wolf-basic-left_19: -4544403340861812512
       wolf-basic-left_2: -3135954960040517124
-      wolf-basic-left_20: -10507687588707448
       wolf-basic-left_21: -7992022547828417959
       wolf-basic-left_22: 6288424868910334068
       wolf-basic-left_23: 2489473303501682301
