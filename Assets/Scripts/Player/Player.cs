@@ -1,9 +1,10 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     private float speed = 3f;
+    private int health = 100;
     private Rigidbody2D rb;
     private Vector2 movement;
     public Animator mainHeroAnimator;
