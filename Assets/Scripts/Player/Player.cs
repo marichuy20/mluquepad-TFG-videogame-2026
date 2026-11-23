@@ -6,7 +6,8 @@ public class Player : MonoBehaviour
     private float speed = 3f;
     private float health = 100f;
     private bool isCloseToEnemy = false;
-    private WolfEnemy closerEnemy;
+    //TODO: Maybe create another father name Enemy for all the enemies
+    private ShortDistanceEnemy closerEnemy;
     private Rigidbody2D rb;
     private Vector2 movement;
     public Animator mainHeroAnimator;
@@ -52,16 +53,17 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Wolf"))
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             isCloseToEnemy = true;
-            closerEnemy = collision.gameObject.GetComponent<WolfEnemy>();
+            //TODO: Change to Enemy type?
+            closerEnemy = collision.gameObject.GetComponent<ShortDistanceEnemy>();
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Wolf"))
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             isCloseToEnemy = false;
         }
