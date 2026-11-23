@@ -5,12 +5,7 @@ public class WolfEnemy : ShortDistanceEnemy
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        enemyAnimator = GetComponent<Animator>();
-        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
-        agent.updateRotation = false;
-        agent.updateUpAxis = false;
-        x = agent.transform.position.x;
-        y = agent.transform.position.y;
+        base.init();
     }
 
     // Update is called once per frame

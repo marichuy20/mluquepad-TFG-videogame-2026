@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     private float health = 100f;
     private bool isCloseToEnemy = false;
     //TODO: Maybe create another father name Enemy for all the enemies
-    private ShortDistanceEnemy closerEnemy;
+    private Enemy closerEnemy;
     private Rigidbody2D rb;
     private Vector2 movement;
     public Animator mainHeroAnimator;
@@ -56,8 +56,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Enemy"))
         {
             isCloseToEnemy = true;
-            //TODO: Change to Enemy type?
-            closerEnemy = collision.gameObject.GetComponent<ShortDistanceEnemy>();
+            closerEnemy = collision.gameObject.GetComponent<Enemy>();
         }
     }
 
