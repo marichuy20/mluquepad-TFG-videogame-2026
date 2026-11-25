@@ -10,6 +10,9 @@ public class Fruit : MonoBehaviour
         if(this.gameObject.tag == "Apple")
         {
             powerUp = 30f;
+        }else if(this.gameObject.tag == "Watermelon")
+        {
+            powerUp = 50f;
         }
         
     }

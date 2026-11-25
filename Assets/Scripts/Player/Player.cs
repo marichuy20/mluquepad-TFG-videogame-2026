@@ -69,6 +69,7 @@ public class Player : MonoBehaviour
         {
             mainHeroAnimator.SetTrigger("isAttacking");
         }
+        Debug.Log("Player health: "+ health);
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -107,20 +108,50 @@ public class Player : MonoBehaviour
     {
         if(health <= 100f && health >=80f)
         {
+            //Fill last heart
             heartsFills[4].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-80)/20;
+            //Make sure the other hearts are fill
+            heartsFills[3].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[2].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
         }else if(health < 80f && health >= 60f)
         {
+            //Make sure the last heart is empty
+            heartsFills[4].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            //Fill fourth hearlt
             heartsFills[3].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-60)/20;
+            heartsFills[2].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
         }else if(health < 60f && health >= 40f)
         {
+            //Make sure the last hearts are empty
+            heartsFills[4].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[3].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            //Fill third hearlt
             heartsFills[2].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-40)/20;
+            heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
+            heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
         }
         else if(health < 40f && health >= 20f)
         {
+            //Make sure the last hearts are empty
+            heartsFills[4].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[3].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[2].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            //Fill second heart
             heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-20)/20;
+            heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = 1;
         }
         else if(health < 20f && health >= 0f)
         {
+            //Make sure the last hearts are empty
+            heartsFills[4].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[3].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[2].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
+            //Fill first heart
             heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-0)/20;
         }
     }
