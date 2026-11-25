@@ -39,6 +39,8 @@ public class Arrow : MonoBehaviour
         {
             hitsPlayer = true;
         }
+        //TODO: Arrow dissapears when it collides with a box or enemy? It
+        //does not reduce player health
     }
 
     private void HarmPlayer()
@@ -46,7 +48,6 @@ public class Arrow : MonoBehaviour
         if(hitsPlayer)
         {
             //TODO: Check if param could be better
-            Debug.Log("Arrow hits player");
             player.GetComponent<Player>().DecreaseHealth(0.5f);
         }
     }

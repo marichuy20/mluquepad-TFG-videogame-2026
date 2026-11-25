@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+//TODO: Create caracter class and add dead(), health, animator...
 public class Player : MonoBehaviour
 {
     private float speed = 3f;
+    private float maxHealth = 100f;
     private float health = 100f;
     private bool isCloseToEnemy = false;
-    //TODO: Maybe create another father name Enemy for all the enemies
     private Enemy closerEnemy;
     private Rigidbody2D rb;
     private Vector2 movement;
@@ -19,7 +20,6 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         mainHeroAnimator = GetComponent<Animator>();
-        //heartsBar = GameObject.FindGameObjectsWithTag("HeartFill");
     }
 
     // Update is called once per frame
@@ -34,12 +34,37 @@ public class Player : MonoBehaviour
 
     private void SetStates()
     {
-        mainHeroAnimator.SetBool("isMovingRight", movement.x > 0 && movement.y == 0);
-        mainHeroAnimator.SetBool("isMovingUp", movement.x == 0 && movement.y > 0);
-        mainHeroAnimator.SetBool("isMovingDown", movement.x == 0 && movement.y < 0);
-        mainHeroAnimator.SetBool("isMovingLeft", movement.x < 0 && movement.y == 0);
-        mainHeroAnimator.SetBool("isNotMoving", movement == Vector2.zero);
-        mainHeroAnimator.SetBool("isDead", health <= 0f);
+        //TODO: Can it be improved more? Too many ifs?
+        //Is moving left - rotate sprite x
+        if(movement.x < 0 && movement.y == 0)
+        {
+            this.gameObject.GetComponent<SpriteRenderer>().flipX = true;
+            mainHeroAnimator.SetBool("isMoving", true);
+        // Is moving left - rotate sprite x   
+        }else if(movement.x > 0 && movement.y == 0)
+        {
+            this.gameObject.GetComponent<SpriteRenderer>().flipX = false;
+            mainHeroAnimator.SetBool("isMoving", true);
+        //Is not moving
+        }else if(movement == Vector2.zero)
+        {
+            mainHeroAnimator.SetBool("isMoving", false);
+        //Is moving up
+        }else if(movement.x == 0 && movement.y > 0)
+        {
+            mainHeroAnimator.SetBool("isMoving", true);
+        //Is moving down
+        }else if(movement.x == 0 && movement.y < 0)
+        {
+            mainHeroAnimator.SetBool("isMoving", true);
+        }
+
+        //TODO: Function?
+        if(health <= 0f)
+        {
+            mainHeroAnimator.SetBool("isDead", true);
+        }
+
         if (Input.GetKeyDown(KeyCode.Z) && movement == Vector2.zero)
         {
             mainHeroAnimator.SetTrigger("isAttacking");
@@ -97,6 +122,15 @@ public class Player : MonoBehaviour
         else if(health < 20f && health >= 0f)
         {
             heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-0)/20;
+        }
+    }
+
+    public void IncreaseHealth(float powerUp)
+    {
+        health += powerUp;
+        if(health > maxHealth)
+        {
+            health = maxHealth;
         }
     }
 

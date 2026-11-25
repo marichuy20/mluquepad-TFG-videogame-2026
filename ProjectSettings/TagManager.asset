@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - HeartFill
+  - Apple
   layers:
   - Default
   - TransparentFX

@@ -30,14 +30,38 @@ public class ShortDistanceEnemy : Enemy
 
     protected void SetStates()
     {
-        //TODO: Improve how to do this?
-        enemyAnimator.SetBool("isMovingLeft", x > agent.transform.position.x);
-        enemyAnimator.SetBool("isMovingRight", x < agent.transform.position.x);
-        enemyAnimator.SetBool("isOnlyMovingUp", y < agent.transform.position.y && x == agent.transform.position.x);
-        enemyAnimator.SetBool("isOnlyMovingDown", y > agent.transform.position.y && x == agent.transform.position.x);
-        enemyAnimator.SetBool("isDead", health <= 0f);
-        //Enemy attacks when it's close to the player and it's not moving
-        enemyAnimator.SetBool("isAttacking", enemyAnimator.GetBool("isMovingLeft") == false && enemyAnimator.GetBool("isMovingRight") == false && enemyAnimator.GetBool("isOnlyMovingUp") == false && enemyAnimator.GetBool("isOnlyMovingDown") == false);
+        //TODO: Make sure enemy is facing player - Different enemies have different ways of facing
+        //Wolf - attacks in front - left?
+        //Cat - attacks in the back - right?
+        //Is moving left
+        if(x > agent.transform.position.x)
+        {
+            this.gameObject.GetComponent<SpriteRenderer>().flipX = false;
+            enemyAnimator.SetBool("isMoving", true); 
+        //Is moving right
+        }else if (x < agent.transform.position.x)
+        {
+            this.gameObject.GetComponent<SpriteRenderer>().flipX = true;
+            enemyAnimator.SetBool("isMoving", true); 
+        //Is moving up
+        }else if(y < agent.transform.position.y && x == agent.transform.position.x)
+        {
+            enemyAnimator.SetBool("isMoving", true); 
+        //Is moving down
+        }else if(y > agent.transform.position.y && x == agent.transform.position.x)
+        {
+            enemyAnimator.SetBool("isMoving", true);    
+        }else if(y == agent.transform.position.y && x == agent.transform.position.x)
+        {
+            enemyAnimator.SetBool("isMoving", false);
+        }
+        
+        enemyAnimator.SetBool("isAttacking", !enemyAnimator.GetBool("isMoving"));
+
+        if(health <= 0f)
+        {
+            enemyAnimator.SetBool("isDead", true);
+        }
 
         //TODO: Check if this is the most efficient way
         x = agent.transform.position.x;

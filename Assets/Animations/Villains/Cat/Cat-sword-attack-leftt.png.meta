@@ -196,7 +196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-sword-attack-leftt_3
+      name: Cat-sword-attack-leftt_4
       rect:
         serializedVersion: 2
         x: 0
@@ -211,8 +211,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fc7800e2870747a0800000000000000
-      internalID: -6393132887343334159
+      spriteID: 79d75736c243e9b10800000000000000
+      internalID: 1990085450596187543
       vertices: []
       indices: 
       edges: []
@@ -243,7 +243,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ef46ffe593f303542bb0459b8556fa38
+    spriteID: 255d2df218e4de3418c44f0eecf62ade
     internalID: 0
     vertices: []
     indices: 
