@@ -16,7 +16,7 @@ public class MainCharacterInitialBehaviour: MonoBehaviour
 
     public void MoveHero(GameObject textBox) {
         textBox.SetActive(false);
-        mainHeroAnimator.SetBool("isMovingRight", true);
+        mainHeroAnimator.SetBool("isMoving", true);
         heroRuns = true;
     }
 

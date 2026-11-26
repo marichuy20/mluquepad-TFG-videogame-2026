@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour
 {
@@ -28,11 +29,17 @@ public class Buttons : MonoBehaviour
         }
     }
 
+    //TODO: Use these function in first scene too if possible
     public void Exit()
     {
-        //TODO: Quit game or generate a new map
         Debug.Log("Game quits");
         Application.Quit();
+    }
+
+    public void GoToMainMenu()
+    {
+        LoadingScreenManager.Instance.SwitchScene(0);
+        //SceneManager.LoadScene("MainMenu");
     }
 
     public void Restart()
