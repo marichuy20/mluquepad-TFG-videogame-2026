@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -12,12 +13,15 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
     public Animator mainHeroAnimator;
+    public GameObject gameOverMessage;
     //Player has five lives - five hearts
     public GameObject[] heartsFills = new GameObject[5];
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        health = maxHealth;
+        gameOverMessage.SetActive(false);
         rb = GetComponent<Rigidbody2D>();
         mainHeroAnimator = GetComponent<Animator>();
     }
@@ -30,6 +34,7 @@ public class Player : MonoBehaviour
         SetStates();
         HarmEnemy();
         UpdateHealthBar();
+        StartCoroutine(Die());
     }
 
     private void SetStates()
@@ -59,17 +64,10 @@ public class Player : MonoBehaviour
             mainHeroAnimator.SetBool("isMoving", true);
         }
 
-        //TODO: Function?
-        if(health <= 0f)
-        {
-            mainHeroAnimator.SetBool("isDead", true);
-        }
-
         if (Input.GetKeyDown(KeyCode.Z) && movement == Vector2.zero)
         {
             mainHeroAnimator.SetTrigger("isAttacking");
         }
-        Debug.Log("Player health: "+ health);
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -81,6 +79,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
+            //TODO: Improve when several enemies are close
             isCloseToEnemy = true;
             closerEnemy = collision.gameObject.GetComponent<Enemy>();
         }
@@ -90,6 +89,7 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
+            //TODO: Improve when several enemies are close
             isCloseToEnemy = false;
         }
     }
@@ -153,6 +153,17 @@ public class Player : MonoBehaviour
             heartsFills[1].GetComponent<UnityEngine.UI.Image>().fillAmount = 0;
             //Fill first heart
             heartsFills[0].GetComponent<UnityEngine.UI.Image>().fillAmount = (health-0)/20;
+        }
+    }
+
+    public IEnumerator Die()
+    {
+        if(health <= 0f && !gameOverMessage.gameObject.activeSelf)
+        {
+            mainHeroAnimator.SetBool("isDead", true);
+            //Give time for the bunny_die animation to finish
+            yield return new WaitForSeconds(2);
+            gameOverMessage.SetActive(true);
         }
     }
 
