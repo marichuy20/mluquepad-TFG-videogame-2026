@@ -8,6 +8,11 @@ TagManager:
   - HeartFill
   - Apple
   - Watermelon
+  - Cat
+  - Wolf
+  - Owl
+  - Key
+  - Box
   layers:
   - Default
   - TransparentFX

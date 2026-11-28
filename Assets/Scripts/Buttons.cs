@@ -45,6 +45,7 @@ public class Buttons : MonoBehaviour
     public void Restart()
     {
         Debug.Log("Game restart");
+        LoadingScreenManager.Instance.SwitchScene(1); //Room-1
         //TODO:
         //Restart condition: Bunny recovers health, but its taken to the
         //first room and all the progress is erased
